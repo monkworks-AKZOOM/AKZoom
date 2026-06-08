@@ -1,3 +1,5 @@
+Tested on Ancient Kingdoms v0.9.20.0
+
 # AKZoom
 AK Zoom v1.0 - Simple Camera Zoom for Ancient Kingdoms
 # AK Zoom
